@@ -1,4 +1,4 @@
-## TransferFunction_arduino
+## transfer-function-arduino
 Implementation of a given transfer function for arduino.
 
 ![Hs](https://user-images.githubusercontent.com/27640916/204833859-46f4e921-19ae-4bd0-8ff4-7058f828d029.PNG)
